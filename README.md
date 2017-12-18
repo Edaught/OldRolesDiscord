@@ -9,4 +9,5 @@ You need [BetterDiscord](https://betterdiscord.net/home/) for this to work.
 * Check the litte box on top of "Settings"
 * Done !
 
+The purpose of this plugin is to fill up the box with the role color
 ![Example](https://github.com/Edaught/OldRolesDiscord/blob/master/discordOldRoles.png)
