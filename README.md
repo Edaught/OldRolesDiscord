@@ -9,3 +9,4 @@ You need [BetterDiscord](https://betterdiscord.net/home/) for this to work.
 * Check the litte box on top of "Settings"
 * Done !
 
+![Example](https://github.com/Edaught/OldRolesDiscord/blob/master/discordOldRoles.png)
